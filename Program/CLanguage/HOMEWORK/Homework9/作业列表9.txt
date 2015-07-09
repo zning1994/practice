@@ -1,0 +1,7 @@
+	Problem ID	Title
+Y	1080 Problem A	平均数在哪儿？
+Y	1061 Problem B	回文
+Y	1062 Problem C	Caesar密码
+Y	1063 Problem D	提取缩略词
+1068 Problem E	液晶显示
+Y	1078 Problem F	社交网络的好友推荐

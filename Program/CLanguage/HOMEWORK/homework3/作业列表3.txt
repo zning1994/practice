@@ -1,0 +1,12 @@
+	Problem ID	Title
+Y	1025 Problem A	成绩的等级
+Y	1026 Problem B	只有一个二元运算符的表达式运算
+Y	1027 Problem C	求100以内的素数
+Y	1028 Problem D	摄氏——华氏温度转换表
+Y	1029 Problem E	1!+2!+…+k!=?
+Y	1039 Problem F	十进制整数转二进制
+N	1040 Problem G	求一元二次方程的根
+Y	1042 Problem H	Sum Problem
+Y	1043 Problem I	Sum Problem (II) : Input/Output Practice
+Y	1044 Problem J	Sum Problem (III) : Input/Output Practice
+Y	1045 Problem K	Sum Problem (IV) : Input/Output Practice

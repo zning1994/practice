@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1395841468 source:j:\kuaipan\cws\second\3\iterator\main.cpp
+	<iostream>
+	<vector>
+
+1396225305 source:c:\cpp\3\iterator\main.cpp
+	<iostream>
+	<vector>
+	<set>
+

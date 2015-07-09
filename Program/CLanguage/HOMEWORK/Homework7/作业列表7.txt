@@ -1,0 +1,9 @@
+Problem ID	Title
+Y	1178 Problem A	分数统计
+Y	1092 Problem B	字符串的逆序
+Y	1101 Problem C	一年中的第几天
+Y	1463 Problem D	A+B Problem (V) : Function Practice (Append Code)
+Y	1464 Problem E	A+B Problem (VI) : Function Practice (Append Code)
+Y	1465 Problem F	编写函数：判断闰年 (Append Code)
+Y	1240 Problem G	A+B Problem (VII) : Function Practice (Append Code)
+Y	1228 Problem H	编写函数：求最大公约数gcd()和最小公倍数lcm() (Append Code)

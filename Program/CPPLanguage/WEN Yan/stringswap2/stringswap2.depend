@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1393864506 source:j:\kuaipan\cws\second\2\stringswap2\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+

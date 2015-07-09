@@ -1,0 +1,11 @@
+	Problem ID	Title
+Y	1002 Problem A	算术基本运算
+Y	1003 Problem B	求圆的面积和周长
+Y	1004 Problem C	平均值
+Y	1005 Problem D	货币兑换
+Y	1006 Problem E	求字符的值
+Y	1007 Problem F	奇数还是偶数？
+Y	1008 Problem G	绝对值
+Y	1009 Problem H	简单的打折计算
+Y	1010 Problem I	判断闰年
+Y	1012 Problem J	水仙花数

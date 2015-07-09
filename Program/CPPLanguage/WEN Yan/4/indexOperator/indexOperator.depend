@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1396097835 source:c:\cpp\indexoperator\main.cpp
+	<iostream>
+	<cstring>
+

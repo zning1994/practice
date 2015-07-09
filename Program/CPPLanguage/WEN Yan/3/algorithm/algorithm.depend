@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1395847370 source:j:\kuaipan\cws\second\3\algorithm\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<vector>
+	<algorithm>
+

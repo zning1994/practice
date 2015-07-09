@@ -1,0 +1,7 @@
+	Problem ID	Title
+Y	1247 Problem A	规范序排列
+Y	1248 Problem B	老师的点名方案
+Y	1151 Problem C	日期格式化(编程题)
+Y	1166 Problem D	打印金字塔 之二
+Y	1174 Problem E	数组循环移位
+Y	1220 Problem F	编写函数：谁能上春晚？ (Append Code)

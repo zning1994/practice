@@ -1,0 +1,5 @@
+
+Problem ID	Title
+Y	1474 Problem A	你会输出吗？
+Y	1475 Problem B	掰手指头学加减
+N	1476 Problem C	麻烦的女朋友

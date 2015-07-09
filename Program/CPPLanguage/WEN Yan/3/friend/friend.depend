@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1380116430 source:j:\csw\c\friend\main.cpp
+	<iostream>
+	"Point.h"
+	"Line.h"
+
+1380201423 j:\csw\c\friend\point.h
+
+1380115937 source:j:\csw\c\friend\point.cpp
+	"Point.h"
+	<iostream>
+	<cmath>
+
+1380116811 j:\csw\c\friend\line.h
+	"Point.h"
+
+1380116294 source:j:\csw\c\friend\line.cpp
+	"Point.h"
+	"Line.h"
+	<iostream>
+	<cmath>
+

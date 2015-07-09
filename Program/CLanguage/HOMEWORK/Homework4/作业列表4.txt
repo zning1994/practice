@@ -1,0 +1,11 @@
+	Problem ID	Title
+Y	1098 Problem A	序数的后缀
+Y	1168 Problem B	输出连续的整数序列(II)
+Y	1100 Problem C	输出月历
+Y	1207 Problem D	求指定数字的和
+Y	1046 Problem E	百钱买百鸡问题
+Y	1047 Problem F	神棍的纯真愿望
+Y	1097 Problem G	判断三角形的性质
+Y	1118 Problem H	计算a-b之间特定数值之和
+Y	1119 Problem I	购物的路程
+Y	1297 Problem J	Beautiful Year

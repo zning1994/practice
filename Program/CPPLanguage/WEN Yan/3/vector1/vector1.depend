@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1395802731 source:j:\kuaipan\cws\second\3\vector1\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+

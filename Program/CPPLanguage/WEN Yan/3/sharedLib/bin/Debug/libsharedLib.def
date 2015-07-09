@@ -1,0 +1,8 @@
+EXPORTS
+    _ZN5Clock7setTimeEiii @1
+    _ZN5Clock8showTimeEv @2
+    _ZN5ClockC1Eiii @3
+    _ZN5ClockC2Eiii @4
+    _ZN5ClockD1Ev @5
+    _ZN5ClockD2Ev @6
+    _get_output_format @7

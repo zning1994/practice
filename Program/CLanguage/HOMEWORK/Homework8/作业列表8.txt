@@ -1,0 +1,11 @@
+Problem ID	Title
+Y	1093 Problem A	登录密码验证
+Y	1375 Problem B	编写函数：求累加和 (Append Code)
+Y	1229 Problem C	编写函数：清除字符串首尾的空白符 (Append Code)
+Y	1235 Problem D	编写函数：字符串的逆序串 (Append Code)
+Y	1107 Problem E	编写函数：Swap (I) (Append Code)
+Y	1241 Problem F	编写函数：比较三个数大小 (Append Code)
+Y	1249 Problem G	Sequence Problem (IV) : Function Practice (Append Code)
+Y	1155 Problem H	编写函数：求数组中的最小值 (Append Code)
+Y	1153 Problem I	编写函数：一维数组的逆序 (Append Code)
+Y	1144 Problem J	编写函数：求数组中的最大值 (Append Code)

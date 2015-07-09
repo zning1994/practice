@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1395245147 source:j:\kuaipan\cws\second\3\usingsharedlib\main.cpp
+	<iostream>
+	"Clock.h"
+
+1395244861 j:\kuaipan\cws\second\3\usingsharedlib\clock.h
+
